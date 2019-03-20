@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9c70604bf11144396c96b85207f062c5",
+    "content-hash": "bef2177cdc97d220452489fd17e2b3aa",
     "packages": [
         {
             "name": "cakephp/chronos",
@@ -6171,16 +6171,16 @@
         },
         {
             "name": "wnx/laravel-stats",
-            "version": "v1.8.3",
+            "version": "v1.9.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stefanzweifel/laravel-stats.git",
-                "reference": "8d15979ec4364e17d8db67d6d9fff1f5401f2ad4"
+                "reference": "729cd5e8fc7916a668d70c53a04c8e20593add42"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stefanzweifel/laravel-stats/zipball/8d15979ec4364e17d8db67d6d9fff1f5401f2ad4",
-                "reference": "8d15979ec4364e17d8db67d6d9fff1f5401f2ad4",
+                "url": "https://api.github.com/repos/stefanzweifel/laravel-stats/zipball/729cd5e8fc7916a668d70c53a04c8e20593add42",
+                "reference": "729cd5e8fc7916a668d70c53a04c8e20593add42",
                 "shasum": ""
             },
             "require": {
@@ -6230,7 +6230,7 @@
                 "stats",
                 "wnx"
             ],
-            "time": "2019-03-16T16:40:19+00:00"
+            "time": "2019-03-18T20:01:29+00:00"
         }
     ],
     "aliases": [],
